@@ -1,0 +1,18 @@
+traceroute to amazium.com (78.47.162.76), 64 hops max, 52 byte packets
+ 1  192.168.0.1 (192.168.0.1)  6.943 ms  0.695 ms  0.619 ms
+ 2  78-22-32-1.access.telenet.be (78.22.32.1)  4.983 ms  18.713 ms  12.192 ms
+ 3  dd5e0c041.access.telenet.be (213.224.192.65)  8.186 ms  13.506 ms  9.471 ms
+ 4  dd5e0fd29.access.telenet.be (213.224.253.41)  11.521 ms  11.064 ms  9.991 ms
+ 5  kpn.bnix.net (194.53.172.59)  11.067 ms  11.466 ms  11.785 ms
+ 6  nntr-s1-rou-1021.eurorings.net (134.222.225.37)  19.486 ms
+    nntr-s1-rou-1021.fr.eurorings.net (134.222.231.189)  20.407 ms  18.163 ms
+ 7  nntr-s1-rou-1022.fr.eurorings.net (134.222.231.154)  20.254 ms  18.498 ms  18.268 ms
+ 8  ffm-s1-rou-1022.de.eurorings.net (134.222.229.30)  31.197 ms  43.786 ms  49.888 ms
+ 9  ffm-s1-rou-1006.de.eurorings.net (134.222.227.10)  31.947 ms  33.074 ms  32.418 ms
+10  ffm-s1-rou-1102.de.eurorings.net (134.222.230.221)  28.204 ms  27.686 ms  28.195 ms
+11  nbg-s1-rou-1001.de.eurorigns.net (134.222.227.118)  45.072 ms  50.584 ms  32.832 ms
+12  kpn-gw.hetzner.de (134.222.107.21)  26.317 ms  26.442 ms  28.095 ms
+13  hos-bb2.juniper3.rz12.hetzner.de (213.239.240.132)  30.006 ms  27.991 ms  28.135 ms
+14  hos-tr4.ms-ex3k1.rz13.hetzner.de (213.239.236.117)  29.822 ms
+    hos-tr3.ms-ex3k1.rz13.hetzner.de (213.239.236.101)  29.086 ms  32.967 ms
+15  vm-terra (78.47.162.76)  29.674 ms  29.277 ms  28.484 ms

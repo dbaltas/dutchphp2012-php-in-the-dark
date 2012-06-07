@@ -1,0 +1,14 @@
+network:Class-Name:network
+network:Auth-Area:0.0.0.0/0
+network:ID:NET-134-219-0-0-1.0.0.0.0/0
+network:Handle:NET-134-219-0-0-1
+network:IP-Network:134.219.0.0/16
+network:IP-Network:134.220.0.0/15
+network:IP-Network:134.222.0.0/16
+network:IP-Network-Block:134.219.000.000 - 134.222.255.255
+network:Org-Name:RIPE Network Coordination Centre
+network:Street-Address:P.O. Box 10096
+network:Street-Address:Amsterdam 1001EB
+network:Country-Code:NL
+network:Created:20031126161818000
+network:Updated:20031126161818000

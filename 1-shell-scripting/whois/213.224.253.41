@@ -1,0 +1,12 @@
+network:Class-Name:network
+network:Auth-Area:0.0.0.0/0
+network:ID:NET-213-0-0-0-1.0.0.0.0/0
+network:Handle:NET-213-0-0-0-1
+network:IP-Network:213.0.0.0/8
+network:IP-Network-Block:213.000.000.000 - 213.255.255.255
+network:Org-Name:RIPE Network Coordination Centre
+network:Street-Address:P.O. Box 10096
+network:Street-Address:Amsterdam 1001EB
+network:Country-Code:NL
+network:Created:19700101170000000
+network:Updated:20090325062027000
