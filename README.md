@@ -1,8 +1,11 @@
 php in the dark by Jeroen Keppens
 =================================
 
-Keywords presented
+original repo (is not up to date with the latest scripts as presented at the workshop, at the time of this writing)
+https://github.com/Amazium/PHP-In-The-Dark
 
+Keywords presented
+	
 * getopt
 * zend getopt (really powerful easy to use can return objects)
 GNU readline library, can handle a list of autocomplete for the user
